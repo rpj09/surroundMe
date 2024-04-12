@@ -29,7 +29,7 @@ export default function Info(props) {
     <Grid container spacing={1}>
       <Grid item xs={12} align="center">
         <Typography component="h4" variant="h4">
-          What is House Party?
+          What is SurroundMe?
         </Typography>
       </Grid>
       <Grid item xs={12} align="center">
