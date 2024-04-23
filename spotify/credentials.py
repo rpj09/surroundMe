@@ -1,3 +1,3 @@
-CLIENT_ID = "08cb230a331944c7bfa503dfc73dd46c"
-CLIENT_SECRET = "f78338ef85e74cf2be80970a90406b69"
+CLIENT_ID = "824d6d5e43c44be3aeeaff252043a7ff"
+CLIENT_SECRET = "8a4f247adc2b4f118478a0ebdae9d61b"
 REDIRECT_URI = "https://surroundme.azurewebsites.net/spotify/redirect"
